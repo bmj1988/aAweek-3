@@ -2,7 +2,7 @@
 
 ## Database Schema Design
 
-![db-schema](<AA API PROJECT-1.png>)
+![db-schema](<AA API PROJECT (2).png>)
 
 ## API Documentation
 
